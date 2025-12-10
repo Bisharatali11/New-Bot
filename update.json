@@ -1,7 +1,7 @@
 {
     "versions": [
         {
-            "version": "2.0.0",
+            "version": "1.0.0",
             "changelog": "Runtime update helper and stability fixes.",
             "files": [
                 "modules/commands/update.js",
